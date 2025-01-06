@@ -8,13 +8,14 @@ Uncover music trends, listener behaviors, and streaming patterns with an interac
 
 
 **Features ✨**
-Top Trends: Explore top artists, genres, and tracks. 
 
-Geo Insights: See where the music plays most.
+**Top Trends:** Explore top artists, genres, and tracks. 
 
-istener Habits: Analyze time-of-day and playlist activity.
+**Geo Insights:** See where the music plays most.
 
-Custom Metrics: Track KPIs like engagement and growth rates.
+**Listener Habits:** Analyze time-of-day and playlist activity.
+
+**Custom Metrics:** Track KPIs like engagement and growth rates.
 
 
 
