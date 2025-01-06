@@ -9,7 +9,7 @@ Uncover music trends, listener behaviors, and streaming patterns with an interac
 
 **Features ✨**
 
-**Top Trends:** Explore top artists, genres, and tracks. 
+**Top Trends:** Explore top artists, genres, and tracks.  
 
 **Geo Insights:** See where the music plays most.
 
@@ -21,10 +21,11 @@ Uncover music trends, listener behaviors, and streaming patterns with an interac
 
 
 **Tools Used 🛠️**
-Power BI: Visualize data with style.
-Power Query: Clean and transform data.
+**Power BI:** Visualize data with style.
+**Power Query:** Clean and transform data.
 DAX: Create dynamic calculations.
-Spotify API: Fetch real-time data.
+**Spotify API:** Fetch real-time data.
+
 Steps to Get Started 🚀
 
 
@@ -45,7 +46,6 @@ Normalize and clean the data to remove duplicates and inconsistencies.
 
 
 **Build Relationships:**
-
 
 
 Link your tables.
