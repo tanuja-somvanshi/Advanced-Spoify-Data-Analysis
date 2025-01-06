@@ -6,6 +6,8 @@ Uncover music trends, listener behaviors, and streaming patterns with an interac
 
 ![Screenshot 2025-01-06 190633](https://github.com/user-attachments/assets/eb71e04e-43c5-4b1f-a19c-fde7ebe9d3d0)
 
+Uploading Screen Recording 2025-01-06 204604.mp4…
+  
 
 **Features ✨**
 
