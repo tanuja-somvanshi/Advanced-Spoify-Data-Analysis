@@ -4,7 +4,7 @@
 **Overview**
 Uncover music trends, listener behaviors, and streaming patterns with an interactive Power BI dashboard.
 
-
+![Screenshot 2025-01-06 190633](https://github.com/user-attachments/assets/eb71e04e-43c5-4b1f-a19c-fde7ebe9d3d0)
 
 
 **Features ✨**
