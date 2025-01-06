@@ -23,7 +23,7 @@ Uncover music trends, listener behaviors, and streaming patterns with an interac
 **Tools Used 🛠️**
 **Power BI:** Visualize data with style.
 **Power Query:** Clean and transform data.
-DAX: Create dynamic calculations.
+**DAX:** Create dynamic calculations.
 **Spotify API:** Fetch real-time data.
 
 Steps to Get Started 🚀
